@@ -1,16 +1,16 @@
 import React from 'react';
 import './App.css';
 
+
 function App() {
   return (
     <div className="App">
-      <Test />
       <QuoteBox />
     </div>
   );
 }
 
-class Test extends React.Component{
+class Clock extends React.Component{
   constructor(props){
     super(props);
     this.state = {
