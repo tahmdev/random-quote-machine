@@ -50,8 +50,7 @@ class QuoteBox extends React.Component{
         ["是非に及ばず", "織田信長"],
         ["Some day you will be old enough to start reading fairy tales again.", "C.S. Lewis"],
         [`今隣には誰もいないや寂しくなんかない幸せだ痛みも消えるはず時が経てば`, "ANARCHY"],
-        ["They kill you for the truth faster than the lies, man", "Ka"],
-        ["uwu", "owo"]
+        ["They kill you for the truth faster than the lies, man", "Ka"]
       ],
       selected : 0,
     }
