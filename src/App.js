@@ -44,7 +44,6 @@ class QuoteBox extends React.Component{
       quotes : [
         ['Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires', "Steinbck"],
         ["どう生きても今日も明日にはすぎた昨日", "鬼"],
-        ["We live in a country where if you want to go bomb somebody, there’s remarkably little discussion about how much it might cost. But when you have a discussion about whether or not we can assist people who are suffering, then suddenly we become very cost-conscious.", "Prof. Andrew Bacevich"],
         ["A bore is someone who deprives you of solitude without providing you with company.", "Oscar Wilde"],
         ["プロはいかなる時でも、言い訳をしない", "千代の富士"],
         ["是非に及ばず", "織田信長"],
